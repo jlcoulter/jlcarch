@@ -1,0 +1,8 @@
+ [[keybind]]
+ command = "Execute"
+  value = "xdotool key Super_L+3 && firefox"
+  modifier = ["modkey"]
+  key = "f"
+
+Launches firefox on desktop 3.
+
