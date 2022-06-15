@@ -14,7 +14,7 @@ polybar
 rofi
 spotify
 discord
-solaar -- logitech
+solaar
 
 #add dot files and chezmoi
 sh -c "$(curl -fsLS chezmoi.io/get)" -- init --apply jlcoulter
