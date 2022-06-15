@@ -1,3 +1,4 @@
+bluez bluez-utils
 alacritty
 awesome
 chezmoi 
@@ -14,3 +15,7 @@ rofi
 spotify
 discord
 solaar -- logitech
+
+#add dot files and chezmoi
+sh -c "$(curl -fsLS chezmoi.io/get)" -- init --apply jlcoulter
+
